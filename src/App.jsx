@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "caio-emanuel-silva",
   medium: "",
   twitter: "caio_silva00702",
-  youTube: "./@Skyatteck00702",
+  youTube: "https://www.youtube.com/@Skyatteck00702",
 };
 
 const primaryColor = "#4E567E";
