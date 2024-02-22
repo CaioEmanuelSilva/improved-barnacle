@@ -117,7 +117,7 @@ const Footer = (props) => {
 };
 
 Footer.defaultProps = {
-  name: "Default Name",
+  // Remove the defaultProp for the "name" prop
 };
 
 Footer.propTypes = {
